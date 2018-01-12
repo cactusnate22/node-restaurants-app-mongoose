@@ -6,7 +6,4 @@ deploy:
   provider: heroku
   api_key:
     secure: tvEfh4r6+j6cfMi0nDnGULCucOaft4+iuvz7L1V1pXve1y5sOYGnHdVrZYupYLg7FVPzez4xWcDFuSbHl5fbuM7DfH3bIbNt3Zdor0VtuVPfoNRK3fi+H9KHi+Cewcc/mlJxL4Wtb4h/+6nH+NKP8mpDo0C6+LMbvoUsrdiKQBpRE6wSrNXsLNSR+wOALH4/mecYoyla4PC5r1lF+M0I1XP/JXqw5DEX8kYK5Vf6S4/HMjWcZImHdcsWQFUB8uebLWR2jaaHt6Sq2gI3RTjsAO0qyT0KAyI1hExOvybhGfBO1pz22zQUPO2Fy+LF5cpqVw+WXRDVukmrqO250//jzxucmS7FCKKULuqcEWpToXT/0ErexmmdSUBKt8HmCdcSpnd62HLfMqUAjONb5ptHxuShQTXet8CrqKWokoIi1NJ1Te7Sm/H7j3oGJz+pmZ6v4/xf5vmyWxDcwowPkJ8VmguNin++feTUHsXwxTNmjHqGNxWctmV9k2XXyvou0zBzz+taXMlT1zdtEDG1vNsZMaQveW0IHVGZ+u0gcfVhTjj/5h73cd2tamMaHBx83q/hWa/Lj4nkOPe3AMBJKwVT+cpSniF3O76sN1gmp3axCYdzDU/lVLKwBS9c0cad6w2KpZolMZ1d5VEZDJvoLAz2EVskg0+MokGZpoLozGqyRUA=
-  app: https://still-basin-47562.herokuapp.com
-  on:
-    repo: cactusnate22/node-restaurants-app-mongoose
-    branch: feature/with-tests
+  app: still-basin-47562
